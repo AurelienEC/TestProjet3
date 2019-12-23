@@ -59,10 +59,18 @@
 		0DADF01223B14BAA00BB386C /* TestProjet3 */ = {
 			isa = PBXGroup;
 			children = (
+				0DADF01C23B14F8800BB386C /* Classes */,
 				0DADF01323B14BAA00BB386C /* main.swift */,
-				0DADF01A23B14CB800BB386C /* Robot.swift */,
 			);
 			path = TestProjet3;
+			sourceTree = "<group>";
+		};
+		0DADF01C23B14F8800BB386C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0DADF01A23B14CB800BB386C /* Robot.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
